@@ -1,0 +1,3 @@
+projekt głównie przeprowadza wizualizacje danych w htmlu. (wykorzystałam html ponieważ mieliśmy w tym semestrze zajęcia
+ z technik internetowych i wykorzystałam z nich wiedze do wykonania projektu). Zawiera tylko troche analizy danych (wypisuje do konsoli najpopularniejsze imie oraz ile razy wystąpiło)
+dane dotyczą drugich imion nadawanych w poszczególnych województwach.
